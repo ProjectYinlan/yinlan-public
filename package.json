@@ -1,0 +1,23 @@
+{
+  "name": "yinlan-public",
+  "version": "0.0.1",
+  "description": "洇岚公开版",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "colour93",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "ali-oss": "^6.17.1",
+    "axios": "^1.2.2",
+    "cron": "^2.3.0",
+    "download": "^8.0.0",
+    "minimist": "^1.2.8",
+    "mongoose": "^6.8.2",
+    "node-mirai-sdk": "^0.3.6",
+    "redis": "^4.6.5",
+    "ws": "^8.13.0"
+  }
+}
